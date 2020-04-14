@@ -12,4 +12,4 @@ The file app_updated.py consists of the flask deployment blueprint with the adde
 an image from the local  machine and uploading and then getting the prediction through the model deployed. 
 
 
-The tested jpeg images are also uploaded for ypur reference.
+The tested jpeg images are also uploaded for reference.
